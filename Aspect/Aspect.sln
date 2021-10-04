@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{5DCA7CD1-2DFB-46A7-95C7-081120008451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspectEditor", "AspectEditor\AspectEditor.csproj", "{0D384290-16C0-4CC6-BDD3-497709288861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DCA7CD1-2DFB-46A7-95C7-081120008451}.Debug|x64.ActiveCfg = Debug|x64
+		{5DCA7CD1-2DFB-46A7-95C7-081120008451}.Debug|x64.Build.0 = Debug|x64
+		{5DCA7CD1-2DFB-46A7-95C7-081120008451}.Release|x64.ActiveCfg = Release|x64
+		{5DCA7CD1-2DFB-46A7-95C7-081120008451}.Release|x64.Build.0 = Release|x64
+		{0D384290-16C0-4CC6-BDD3-497709288861}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0D384290-16C0-4CC6-BDD3-497709288861}.Debug|x64.Build.0 = Debug|Any CPU
+		{0D384290-16C0-4CC6-BDD3-497709288861}.Release|x64.ActiveCfg = Release|Any CPU
+		{0D384290-16C0-4CC6-BDD3-497709288861}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C6F765-C1D4-4D3C-A3C5-E103C3CB7A9A}
+	EndGlobalSection
+EndGlobal
